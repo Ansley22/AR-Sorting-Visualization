@@ -7,4 +7,4 @@ traditional teaching and modern learning, making education immersive and interac
 geometric interaction, algorithm visualization, and shared virtual whiteboards, improving problem-solving skills and understanding
 complex concepts. It demonstrates AR's potential to support scientific learning and effective collaboration in geometry and algorithms.
 
-(This is just the sorting algorithm part)
+(This is just the sorting algorithm's visualization scripts )
